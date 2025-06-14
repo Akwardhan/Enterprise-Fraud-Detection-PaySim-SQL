@@ -1,4 +1,6 @@
 # Enterprise Fraud Detection – SQL System using PaySim Dataset
+[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)](https://www.postgresql.org/)
+[![Dataset Size](https://img.shields.io/badge/Records-6.3M-orange)]()
 
 Built a scalable fraud detection system using SQL on 6.3M+ financial transactions from the PaySim dataset. Detected high-risk behavioral patterns, flagged ₹12B+ in fraudulent activity, and delivered actionable intelligence aligned with enterprise risk control frameworks.
 
