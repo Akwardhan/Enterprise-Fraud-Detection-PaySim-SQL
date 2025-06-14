@@ -66,7 +66,7 @@ Custom flags like `is_suspicious` and `is_zero_balance` were created to segment 
 
 ## 📁 Dataset Reference
 
-- [PaySim Dataset – Kaggle](https://www.kaggle.com/datasets/ntnu-testimon/paysim1)
+- [PaySim Dataset – Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
 ---
 
