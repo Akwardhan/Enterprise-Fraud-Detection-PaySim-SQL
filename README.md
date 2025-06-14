@@ -72,9 +72,18 @@ Custom flags like `is_suspicious` and `is_zero_balance` were created to segment 
 
 ---
 
+
 ## 🔎 Result
 
 Delivered a business-aligned fraud detection system designed to mirror how real-world risk teams uncover and respond to anomalies in large-scale financial data using explainable, interpretable rules.
 
+--- 
+
+---
+
+## 📌 Author
+
+**Anmol Kirtiwardhan**  
+🌐 Explore all my projects & live apps: [akwardhan.github.io](https://akwardhan.github.io)
 
 
