@@ -13,7 +13,7 @@ Built a scalable fraud detection system using SQL on 6.3M+ financial transaction
 - **High-risk cases flagged:** ~8,213 (0.13%)
 - **Flagged fraudulent volume:** ₹12B+
 - **Transaction types involved:** 100% of fraud occurred in `TRANSFER` and `CASH_OUT`
-- **Peak fraud window:** ₹4B+ stolen between 6 PM – 11 PM
+- **Peak fraud window:** ₹3.16B+ stolen between 6 PM – 11 PM
 - **Repeat receiver pattern:** One receiver flagged for ₹10M+ in multiple events
 - **SQL-flagged volume:** ₹5.26B identified using logic-based rules
 
