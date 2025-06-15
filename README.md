@@ -41,7 +41,7 @@ Custom flags like `is_suspicious` and `is_zero_balance` were created to segment 
 
 <p align="center">
   <img src="screenshots/hourly_fraud_distribution.png" width="500"/>
-  <br><em>₹4B+ stolen during peak hours (6 PM – 11 PM)</em>
+  <br><em>₹3.16B+ stolen during peak hours (6 PM – 11 PM)</em>
 </p>
 
 ---
