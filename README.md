@@ -44,6 +44,10 @@ Custom flags like `is_suspicious` and `is_zero_balance` were created to segment 
   <br><em>₹3.16B+ stolen during peak hours (6 PM – 11 PM)</em>
 </p>
 
+<p align ="center">
+  <img src ="" width="500"/>
+  <br><em>receiver flagged for ₹10M+ in multiple events</em>
+</p>
 ---
 
 
