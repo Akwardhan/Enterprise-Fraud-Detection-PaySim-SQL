@@ -1,9 +1,7 @@
-,# Enterprise Fraud Detection – SQL System using PaySim Dataset
+# Enterprise Fraud Detection – SQL System using PaySim Dataset
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)](https://www.postgresql.org/)
 [![Dataset Size](https://img.shields.io/badge/Records-6.3M-orange)]()
 
-**Anmol Kirtiwardhan**  
-🌐 Explore all my projects & live apps: [akwardhan.github.io](https://akwardhan.github.io)
 
 Built a scalable fraud detection system using SQL on 6.3M+ financial transactions from the PaySim dataset. Detected high-risk behavioral patterns, flagged ₹12B+ in fraudulent activity, and delivered actionable intelligence aligned with enterprise risk control frameworks.
 
@@ -78,12 +76,15 @@ Custom flags like `is_suspicious` and `is_zero_balance` were created to segment 
 
 ## 🔎 Result
 
-Delivered a business-aligned fraud detection system designed to mirror how real-world risk teams uncover and respond to anomalies in large-scale financial data using explainable, interpretable rules.
+Delivered a business-aligned fraud detection system designed to mirror how real-world risk teams uncover and respond to anomalies in large-scale financial 
+data using explainable, interpretable rules.
 
+--
+
+**Anmol Kirtiwardhan**  
+🌐 Explore all my projects & live apps: [akwardhan.github.io](https://akwardhan.github.io)
 
 ---
-
-## 📌 Author
 
 
 
