@@ -35,19 +35,25 @@ Custom flags like `is_suspicious` and `is_zero_balance` were created to segment 
 ## 📸 Visual Examples
 
 <p align="center">
-  <img src="screenshots/fraud_by_type.png" width="500"/>
+  <img src="https://github.com/Akwardhan/Enterprise-Fraud-Detection-PaySim-SQL/blob/main/Enterprise-Fraud-Detection-SQL/Dataset%20preview%20showing%20over%206.3%20million%20transaction%20records.png" width="800"/>
+  <br><em>Dataset preview showing over 6.3 million transaction records</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Akwardhan/Enterprise-Fraud-Detection-PaySim-SQL/blob/main/Enterprise-Fraud-Detection-SQL/Fraud%20exclusively%20occurred%20in%20TRANSFER%20and%20CASH_OUT%20types.png" width="800"/>
   <br><em>Fraud exclusively occurred in TRANSFER and CASH_OUT types</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/hourly_fraud_distribution.png" width="500"/>
+  <img src="https://github.com/Akwardhan/Enterprise-Fraud-Detection-PaySim-SQL/blob/main/Enterprise-Fraud-Detection-SQL/3.16B%2B%20stolen%20during%20peak%20hours%20(6%20PM%20%E2%80%93%2011%20PM).png?raw=true" width="800"/>
   <br><em>₹3.16B+ stolen during peak hours (6 PM – 11 PM)</em>
 </p>
 
-<p align ="center">
-  <img src ="" width="500"/>
-  <br><em>receiver flagged for ₹10M+ in multiple events</em>
+<p align="center">
+  <img src="https://github.com/Akwardhan/Enterprise-Fraud-Detection-PaySim-SQL/blob/main/Enterprise-Fraud-Detection-SQL/One%20receiver%20flagged%20for%20%E2%82%B910M%2B%20in%20multiple%20events.png" width="800"/>
+  <br><em>One receiver flagged for ₹10M+ in multiple fraud events</em>
 </p>
+
 ---
 
 
