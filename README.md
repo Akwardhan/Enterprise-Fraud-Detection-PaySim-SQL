@@ -61,7 +61,6 @@ Custom flags like `is_suspicious` and `is_zero_balance` were created to segment 
 
 - PostgreSQL / pgAdmin
 - SQL (window functions, CASE, aggregations)
-- Excel / Matplotlib (visualization)
 - GitHub (versioning and project publishing)
 
 ---
